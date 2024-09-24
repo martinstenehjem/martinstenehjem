@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Martin! </h1>
 
-<!--
-**martinstenehjem/martinstenehjem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 My Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Machine Learning Random Forest and Decision Tree classifier</b>
+  - 
+  - 
+<h2>🤳 Connect with me:</h2>
+<a href="https://www.linkedin.com/in/martinstenehjem" target="_blank">
+  <img align="left" alt="martin_stenehjem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/martin_stenehjem/" target="_blank">
+  <img align="left" alt="martinstenehjem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
