@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Machine Learning Random Forest and Decision Tree classifier</b>
-  - 
+- <b>Machine Learning</b>
+  - [Random Forest and Decision Tree classifier] 
   - 
 <h2>🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/martinstenehjem" target="_blank">
