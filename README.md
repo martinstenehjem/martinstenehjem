@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [Random Forest and Decision Tree classifier] 
+  - https://github.com/martinstenehjem/ML-random-forest-classifier
   - 
 <h2>🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/martinstenehjem" target="_blank">
